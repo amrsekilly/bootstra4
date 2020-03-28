@@ -1,0 +1,16 @@
+.service-item {
+    min-width: 400px;
+    min-height: 400px;
+    background-color: blue;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.contact,
+.social {
+    display: inline-block;
+}
+
+.social {
+    float: right;
+}
